@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1760484346 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\practicas parcial\tpsupermercado\main.cpp
+	<iostream>
+	"menues.h"
+
+1760484398 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\practicas parcial\tpsupermercado\menues.h
+
+1760484612 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\practicas parcial\tpsupermercado\menues.cpp
+	<iostream>
+	"menues.h"
+
+1760484346 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\main.cpp
+	<iostream>
+	"menues.h"
+
+1761057411 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\menues.h
+	"fechaBeto.h"
+	"domicilio.h"
+	"Cliente.h"
+	"Persona.h"
+	"archivoCliente.h"
+
+1761139175 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\fechabeto.h
+
+1761139175 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\domicilio.h
+	<cstring>
+
+1760666654 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\cliente,h.h
+	"persona.h"
+	"fecha.h"
+
+1761239827 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\persona.h
+	"fechaBeto.h"
+	"domicilio.h"
+
+1761139175 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\fechabeto.cpp
+	<iostream>
+	"fechaBeto.h"
+
+1761239827 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\cliente.h
+	"persona.h"
+	"fechaBeto.h"
+
+1761269526 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\domicilio.cpp
+	<iostream>
+	"domicilio.h"
+	<cstring>
+
+1761246347 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\cliente.cpp
+	<iostream>
+	"cliente.h"
+	"fechaBeto.h"
+	<cstring>
+
+1761269244 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\menues.cpp
+	<iostream>
+	"menues.h"
+	"fechaBeto.h"
+	"domicilio.h"
+	"Cliente.h"
+	"Persona.h"
+	"archivoCliente.h"
+	"Empleado.h"
+	"archivoEmpleado.h"
+	"Proveedor.h"
+	"archivoProveedor.h"
+
+1761244097 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\persona.cpp
+	<iostream>
+	"fechaBeto.h"
+	"domicilio.h"
+	"persona.h"
+	<cstring>
+
+1761135543 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\archivocliente.cpp
+	"cliente.h"
+	<iostream>
+	<cstdio>
+
+1761133144 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\archivocliente.h
+	"cliente.h"
+	"fechaBeto.h"
+	<cstring>
+
+1761247429 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\empleado.h
+	"fechaBeto.h"
+	"domicilio.h"
+	"Persona.h"
+
+1761247145 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\archivoempleado.h
+
+1761256265 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\archivoempleado.cpp
+	<iostream>
+	"Empleado.h"
+	"archivoEmpleado.h"
+
+1761255692 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\empleado.cpp
+	<iostream>
+	"Empleado.h"
+	"Persona.h"
+	"fechaBeto.h"
+	"domicilio.h"
+
+1761269229 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\archivoproveedor.cpp
+	<iostream>
+	"archivoProveedor.h"
+	"Proveedor.h"
+
+1761269229 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\archivoproveedor.h
+
+1761269229 c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\proveedor.h
+	"fechaBeto.h"
+	"domicilio.h"
+	"Persona.h"
+
+1761269526 source:c:\users\lenovo\desktop\utn 2025\segundo cuatrimestre\programacion 2\tp supermercado\tpsupermercado\proveedor.cpp
+	<iostream>
+	"Persona.h"
+	"fechaBeto.h"
+	"domicilio.h"
+	"Proveedor.h"
+
